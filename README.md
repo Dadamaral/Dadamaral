@@ -25,8 +25,6 @@ Estudante de Informática no IFTM no campus Patrocínio
 - 🚴‍♂️ Semi-ciclista.
   
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Davi](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
 
 ---
