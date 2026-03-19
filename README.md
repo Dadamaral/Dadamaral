@@ -1,3 +1,7 @@
+<div align="center">
+
+  <img src="file:///home/davi/Downloads/Davi%20Salles.png" alt="Banner do Davi Salles" width="100%" /></div>
+ 
  <div align="center">
 
 # Repositório Davi Salles 2°TINF
