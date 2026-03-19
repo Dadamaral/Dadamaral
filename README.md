@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Salles! 👋
+# Olá, eu sou o Davi Salles! 
 
 Estudante de Informática no IFTM no campus Patrocínio
 
