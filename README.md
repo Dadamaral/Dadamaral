@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/160d1d8f-71d5-4639-93aa-77e24e8e2219" alt="Banner Davi Salles" width="100%">
+  <img src="https://github.com/user-attachments/assets/18659347-c0c6-4a75-83df-b8e9f7ff2a93" alt="Banner Davi Salles" width="100%">
 </div>
 
 
