@@ -6,6 +6,9 @@
 
 Estudante de Informática no IFTM no campus Patrocínio
 
+
+</div>
+
 ### 👨‍💻 Sobre Mim
 - 🎓 Atualmente no 2º ano do Ensino Médio Técnico em Informática.
 - 🐧 Usuário e fã do **Linux Mint**.
@@ -41,6 +44,5 @@ Estudante de Informática no IFTM no campus Patrocínio
 ---
 
 
-</div>
 
 
