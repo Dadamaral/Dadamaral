@@ -24,7 +24,7 @@ Estudante de Informática no IFTM campus Patrocínio
 - **Pesquisa Acadêmica Socioeconômica:** Estudo sobre o contexto econômico de Patrocínio–MG.
 
 
-### 🎸 Fora do Código
+### 🎸 Fora da Informática
 - 🏋️‍♂️ Adoro frequentar a academia.
 - 🎸 Consumidor de quase todos os estilos de Rock.
 - ⚽ Torcedor fanático do Cruzeiro.
