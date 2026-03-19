@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7fc0ea51-b94f-4027-b708-640103f8bfbb" alt="Banner Davi Salles" width="100%">
+  <img src="https://github.com/user-attachments/assets/07a84ac2-03dc-4aba-b243-e7c544f72fe3" alt="Banner Davi Salles" width="100%">
+
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=tokyonight"/>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadamaral&layout=compact&theme=tokyonight"/>
 </div>
 
 # Repositório Davi Salles 2°TINF
