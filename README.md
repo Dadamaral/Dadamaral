@@ -3,7 +3,7 @@
 # Repositório Davi Salles 2°TINF
 
 
-Estudante de Informática no IFTM no campus Patrocínio
+Estudante de Informática no IFTM campus Patrocínio
 
 
 </div>
