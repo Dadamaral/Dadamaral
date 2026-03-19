@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/53513c69-0e7e-4e21-b443-7209e923f4ca" alt="Banner Davi Salles" width="100%">
+  <img src="https://github.com/user-attachments/assets/a7fb850f-4be1-46da-8e88-5ea4a41468f7" alt="Banner Davi Salles" width="100%">
 </div>
 
 # Repositório Davi Salles 2°TINF
