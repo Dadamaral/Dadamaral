@@ -25,6 +25,5 @@ Estudante de Informática no IFTM no campus Patrocínio
 - 🚴‍♂️ Semi-ciclista.
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/DadamaralDenverCoder1)](https://git.io/streak-stats)
-[![MasterHead](https://wallpaperaccess.com/cruzeiro-esporte-clube)](https://github.com/Dadamaral)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=radical)](https://git.io/streak-stats)
 ---
