@@ -14,7 +14,7 @@ Estudante de Informática no IFTM campus Patrocínio
 - 🎓 Atualmente no 2º ano do Ensino Médio Técnico em Informática.
 - 🐧 Usuário e fã do **Linux Mint**.
 - 🛠️ Gosto de hardware e manutenções preventivas.
-- 📊 Crio visualizações de dados e infográficos históricos para o YouTube no tempo livre.
+- 📊 Crio visualizações de dados e infográficos históricos de cunho político para o YouTube no tempo livre.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** HTML, CSS, JavaScript (em aprendizado no curso técnico).
