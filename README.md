@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/160d1d8f-71d5-4639-93aa-77e24e8e2219" alt="Banner Davi Salles" width="100%">
+</div>
+
+<div align="center">
 
   <img src="file:///home/davi/Downloads/Davi%20Salles.png" alt="Banner do Davi Salles" width="100%" /></div>
  
