@@ -1,3 +1,11 @@
+ <div align="center">
+
+# Repositório Davi Salles 2°TINF
+
+
+
+</div>
+
 # Olá, eu sou o Davi Salles! 
 
 Estudante de Informática no IFTM no campus Patrocínio
@@ -24,13 +32,7 @@ Estudante de Informática no IFTM no campus Patrocínio
 - ⚽ Torcedor fanático do Cruzeiro.
 - 🚴‍♂️ Semi-ciclista.
 
-  <div align="center">
-
-# Repositório Davi Salles 2°TINF
-
-[Coloque os comandos dos cards aqui dentro]
-
-</div>
+ 
   
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=radical)](https://git.io/streak-stats)
