@@ -1,14 +1,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/07a84ac2-03dc-4aba-b243-e7c544f72fe3" alt="Banner Davi Salles" width="100%">
-
-  <br><br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=tokyonight"/>
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadamaral&layout=compact&theme=tokyonight"/>
 </div>
 
 # Repositório Davi Salles 2°TINF
@@ -43,8 +34,7 @@ Estudante de Informática no IFTM campus Patrocínio
 
  
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=radical)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -52,7 +42,14 @@ Estudante de Informática no IFTM campus Patrocínio
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 ---
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=tokyonight"/>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadamaral&layout=compact&theme=tokyonight"/>
+</div>
 
 
 
