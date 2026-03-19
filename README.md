@@ -24,6 +24,13 @@ Estudante de Informática no IFTM no campus Patrocínio
 - ⚽ Torcedor fanático do Cruzeiro.
 - 🚴‍♂️ Semi-ciclista.
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/DadamaralDenverCoder1)](https://git.io/streak-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dadamaral&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadamaral&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div>
 ---
+
