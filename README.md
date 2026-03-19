@@ -2,10 +2,6 @@
 
 # Repositório Davi Salles 2°TINF
 
-
-
-</div>
-
 # Olá, eu sou o Davi Salles! 
 
 Estudante de Informática no IFTM no campus Patrocínio
@@ -43,4 +39,8 @@ Estudante de Informática no IFTM no campus Patrocínio
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 ---
+
+
+</div>
+
 
