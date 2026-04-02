@@ -31,6 +31,7 @@ Estudante de Informática no IFTM campus Patrocínio
 - 🎸 Consumidor de quase todos os estilos de Rock.
 - ⚽ Torcedor fanático do Cruzeiro.
 - 🚴‍♂️ Semi-ciclista.
+- 🏛️ Amante das Ciências Humanas
 
  
   
