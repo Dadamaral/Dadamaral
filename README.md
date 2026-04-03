@@ -38,8 +38,11 @@ Estudante de Informática no IFTM campus Patrocínio
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </div>
 ---
 <div align="center">
@@ -50,6 +53,4 @@ Estudante de Informática no IFTM campus Patrocínio
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadamaral&layout=compact&theme=tokyonight"/>
 </div>
-
-
 
