@@ -17,7 +17,7 @@ Estudante de Informática no IFTM campus Patrocínio
 - 📊 Crio visualizações de dados e infográficos históricos de cunho político para o YouTube no tempo livre.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript (em aprendizado no curso técnico).
+- **Linguagens:** HTML e CSS (em aprendizado no curso técnico).
 - **Design:** Inkscape, Photopea e Canva.
 - **Sistemas:** Linux Mint, Windows 11 e Ubuntu.
 
